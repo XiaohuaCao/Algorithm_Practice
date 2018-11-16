@@ -1,4 +1,4 @@
-package lintcode_nine_solutions.chapter1_hack_the_algorithm_interview.chapter1;
+package lintcode_nine_solutions.chapter01;
 
 import java.util.HashSet;
 import java.util.Set;

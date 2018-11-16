@@ -1,4 +1,4 @@
-package lintcode_nine_solutions.chapter1_hack_the_algorithm_interview.chapter1;
+package lintcode_nine_solutions.chapter01;
 /*为了保证O(n+m)的时间复杂度，可以使用更通用的Rabin-Karp算法。
 
 算法非常简单，总结为三点：

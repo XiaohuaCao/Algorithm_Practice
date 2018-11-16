@@ -1,4 +1,4 @@
-package lintcode_nine_solutions.chapter1_hack_the_algorithm_interview.chapter2_binary_search;
+package lintcode_nine_solutions.chapter02_binary_search;
 /*ind the last position of a target number in a sorted array. Return -1 if target does not exist.
 * */
 public class LastPositionTarget458 {

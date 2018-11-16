@@ -1,4 +1,4 @@
-package lintcode_nine_solutions.chapter1_hack_the_algorithm_interview.chapter1;
+package lintcode_nine_solutions.chapter01;
 /*Given a string s, find the longest palindromic subsequence's length in s. You may assume that the maximum length of s is 1000.
 
 Example

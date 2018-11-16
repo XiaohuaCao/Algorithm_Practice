@@ -1,4 +1,4 @@
-package lintcode_nine_solutions.chapter1_hack_the_algorithm_interview.chapter2_binary_search;
+package lintcode_nine_solutions.chapter02_binary_search;
 
 import java.util.PriorityQueue;
 import java.util.Queue;

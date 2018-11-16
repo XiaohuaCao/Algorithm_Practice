@@ -1,4 +1,4 @@
-package lintcode_nine_solutions.chapter1_hack_the_algorithm_interview.chapter2_binary_search;
+package lintcode_nine_solutions.chapter02_binary_search;
 /*585. Maximum Number in Mountain Sequence
 Given a mountain sequence of n integers which increase firstly and then decrease, find the mountain top.
 */
